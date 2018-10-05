@@ -1,2 +1,3 @@
 # Test_git
-Git example
+
+Simple file will use to learn git basics
